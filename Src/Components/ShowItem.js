@@ -7,6 +7,7 @@ import {
   StyleSheet,
   Dimensions
 } from "react-native";
+
 import PropTypes from "prop-types";
 import Icon from "react-native-vector-icons/MaterialIcons";
 
